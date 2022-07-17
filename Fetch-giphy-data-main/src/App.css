@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(46, 43, 41);
+}
+
+.gifs {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gif {
+  padding: 0 2px;
+}
+
+.loader {
+  color: rgb(255, 0, 21);
+}
